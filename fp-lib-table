@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "My-Library")(type "KiCad")(uri "C:/Users/yasum/iCloudDrive/My-Library.pretty")(options "")(descr ""))
+)
